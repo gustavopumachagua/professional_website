@@ -2,14 +2,17 @@ import { useState, useEffect } from "react";
 import { heroPropTypes } from "../../utils/propTypes";
 import { HeroText, Carousel } from "./index";
 
+// Importa los íconos explícitamente
+import perfil1 from "../../assets/icons/perfil_1.svg";
+import perfil2 from "../../assets/icons/perfil_2.svg";
+import perfil3 from "../../assets/icons/perfil_3.svg";
+
 const Hero = ({ language }) => {
   // Manejo del índice de las imágenes
   const [currentIndex, setCurrentIndex] = useState(0);
-  const profiles = [
-    "/src/assets/icons/perfil_1.svg",
-    "/src/assets/icons/perfil_2.svg",
-    "/src/assets/icons/perfil_3.svg",
-  ];
+
+  // Array con los íconos importados
+  const profiles = [perfil1, perfil2, perfil3];
 
   // Cambio automático de imágenes cada 5 segundos
   useEffect(() => {
@@ -31,6 +34,7 @@ const Hero = ({ language }) => {
     </section>
   );
 };
+
 Hero.propTypes = heroPropTypes;
 
 export default Hero;
