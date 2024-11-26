@@ -1,0 +1,152 @@
+{
+  "header": {
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Acerca de",
+    "description": "Egresado en Ingeniería de Sistemas con una sólida base técnica y pasión por el análisis de datos, procesos ETL y desarrollo frontend. Poseo habilidades en programación con Python, SQL, HTML, CSS, JavaScript y React, complementadas con experiencia en análisis estadístico y aprendizaje automático. Tengo experiencia práctica en herramientas de visualización como Excel y Power BI, con capacidad para transformar datos complejos en insights accionables y comprensibles. Además, cuento con conocimientos en procesos ETL (Extracción, Transformación y Carga), gestionando y preparando datos para proyectos estratégicos. En el ámbito del desarrollo frontend, he trabajado en la creación de interfaces de usuario responsivas, accesibles e intuitivas, aplicando buenas prácticas de diseño y usabilidad. Estoy familiarizado con herramientas de control de versiones como Git y con la aplicación de metodologías ágiles para el desarrollo de proyectos colaborativos. Mi objetivo es integrar mi pasión por los datos y el diseño para contribuir al desarrollo de soluciones innovadoras basadas en datos y proyectos frontend, donde pueda aportar valor y seguir creciendo profesionalmente."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Habilidad en programación con Python, SQL, HTML, CSS, JavaScript y React, combinando una sólida base en desarrollo de software con una destacada capacidad para analizar y procesar datos. Experiencia en análisis estadístico, aprendizaje automático y transformación de conjuntos de datos complejos en insights accionables utilizando herramientas como Excel y Power BI. Competencia en procesos ETL, gestionando la extracción, transformación y carga de datos para iniciativas estratégicas. En el ámbito del desarrollo frontend, habilidad para crear interfaces de usuario responsivas, accesibles e intuitivas, aplicando las mejores prácticas en diseño y usabilidad. Familiaridad con herramientas de control de versiones como Git y metodologías ágiles para mejorar la colaboración y optimizar el flujo de trabajo en proyectos."
+  },
+  "portfolio": {
+    "title": "Proyectos",
+    "description": "He trabajado en proyectos que combinan análisis de datos y desarrollo frontend. En el área de análisis de datos, he diseñado dashboards interactivos utilizando herramientas como Power BI y Excel, permitiendo la visualización clara de tendencias y métricas clave. También he desarrollado pipelines ETL con Python y SQL para automatizar procesos de extracción, transformación y carga de datos, optimizando la gestión y el uso estratégico de los mismos. En el ámbito de desarrollo frontend, he creado interfaces responsivas y accesibles utilizando tecnologías como React, HTML, CSS y JavaScript, aplicando principios de diseño centrado en el usuario. Además, he integrado APIs RESTful en aplicaciones frontend, mejorando la funcionalidad y la experiencia de usuario en los proyectos.",
+    "filters": {
+      "all": "Todos",
+      "dataAnalysis": "Análisis de Datos",
+      "webApp": "Aplicaciones Web"
+    },
+    "projects": [
+      {
+        "title": "Analisis de Billboard",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa de los datos de las listad de los Hot 100 Billboard desde 1965 hasta 2023. El Billboard Hot 100 es la lista de discos estándar de la industria musical en los Estados Unidos para canciones, publicada semanalmente por la revista Billboard. Las clasificaciones de las listas se basan en las ventas (físicas y digitales), la reproducción de radio y la transmisión en línea en los Estados Unidos.",
+        "date": "10 Feb 2023"
+      },
+      {
+        "title": "Análisis de Encuestas",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa de los datos del Índice global de felicidad de 2015 - 2022. El índice mundial de la felicidad es una medida que se utiliza para evaluar el nivel de felicidad de los ciudadanos de diferentes países. Este índice se basa en una encuesta que se realiza cada año, en la que se pregunta a las personas sobre su percepción de la felicidad y bienestar en su vida.",
+        "date": "10 Jun 2023"
+      },
+      {
+        "title": "Analisis de Laptops",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa extraer los datos de la pagina web se Amazon por medio de Web Scraping.El procedimiento para la extracción de datos para un análisis de la página web de Amazon utilizando web scraping con Beautiful Soup en Python.",
+        "date": "15 Oct 2023"
+      },
+      {
+        "title": "Análisis de Monitores",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa extraer los datos de la pagina web se Amazon por medio de Web Scraping. El procedimiento para la extracción de datos para un análisis de la página web de Amazon utilizando web scraping con Beautiful Soup en Python.",
+        "date": "15 Jul 2023"
+      },
+      {
+        "title": "Analisis de Terremoto",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa de los datos de los terremotos desde 1900 hasta 2023. El proyecto de Data Science sobre el análisis de los terremotos tiene como objetivo utilizar técnicas de análisis de datos para estudiar la actividad sísmica en una región geográfica determinada. Para ello, se recopilará un conjunto de datos históricos de terremotos, que incluirá información sobre la fecha, la hora, la ubicación, la magnitud y otros factores relacionados con los terremotos.",
+        "date": "15 Feb 2023"
+      },
+      {
+        "title": "Prediccion de Terremoto",
+        "category": "Análisis de Datos",
+        "description": "El Siguiente proyectos se basa de los datos de los terremotos desde 1900 hasta 2023. El proyecto de Data Science sobre el análisis de los terremotos tiene como objetivo utilizar técnicas de análisis de datos para estudiar la actividad sísmica en una región geográfica determinada. Para ello, se recopilará un conjunto de datos históricos de terremotos, que incluirá información sobre la fecha, la hora, la ubicación, la magnitud y otros factores relacionados con los terremotos.",
+        "date": "15 Nov 2023"
+      },
+      {
+        "title": "App Analisis de Terremotos",
+        "category": "Aplicaciones Web",
+        "description": "El Siguiente proyectos se basa de los datos de los terremotos desde 1900 hasta 2023. El proyecto de Data Science sobre el análisis de los terremotos tiene como objetivo utilizar técnicas de análisis de datos para estudiar la actividad sísmica en una región geográfica determinada. Para ello, se recopilará un conjunto de datos históricos de terremotos, que incluirá información sobre la fecha, la hora, la ubicación, la magnitud y otros factores relacionados con los terremotos.",
+        "date": "1 Feb 2023"
+      },
+      {
+        "title": "App Prediccion de Terremotos",
+        "category": "Aplicaciones Web",
+        "description": "El Siguiente proyectos se basa de los datos de los terremotos desde 1900 hasta 2023. El proyecto de Data Science sobre el análisis de los terremotos tiene como objetivo utilizar técnicas de análisis de datos para estudiar la actividad sísmica en una región geográfica determinada. Para ello, se recopilará un conjunto de datos históricos de terremotos, que incluirá información sobre la fecha, la hora, la ubicación, la magnitud y otros factores relacionados con los terremotos.",
+        "date": "22 Feb 2023"
+      },
+      {
+        "title": "Proyecto 9",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Proyecto 10",
+        "category": "Análisis de Datos",
+        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Proyecto 11",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Proyecto 12",
+        "category": "Análisis de Datos",
+        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Proyecto 13",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Proyecto 14",
+        "category": "Análisis de Datos",
+        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Proyecto 15",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Proyecto 16",
+        "category": "Análisis de Datos",
+        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Proyecto 17",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Proyecto 18",
+        "category": "Análisis de Datos",
+        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Proyecto 19",
+        "category": "Aplicaciones Web",
+        "description": "Una aplicación web construida con tecnologías modernas.",
+        "date": "15 Feb 2024"
+      }
+    ],
+    "labels": {
+      "documentation": "Documentación",
+      "demo": "Ver"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "spotify": "Mi lista de reproducción de Spotify"
+  },
+  "footer": {
+    "text": "© 2024 MiPortafolio. Todos los derechos reservados."
+  }
+}

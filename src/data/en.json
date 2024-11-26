@@ -1,0 +1,153 @@
+{
+  "header": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "About",
+    "description": "Graduate in Systems Engineering with a strong technical foundation and a passion for data analysis, ETL processes, and frontend development. Skilled in programming with Python, SQL, HTML, CSS, JavaScript, and React, complemented by experience in statistical analysis and machine learning. Hands-on experience with visualization tools such as Excel and Power BI, with the ability to transform complex data into actionable and understandable insights. Additionally, proficient in ETL (Extract, Transform, Load) processes, managing and preparing data for strategic projects. In frontend development, I have worked on creating responsive, accessible, and intuitive user interfaces, applying best practices in design and usability. Familiar with version control tools such as Git and experienced in implementing agile methodologies for collaborative project development. My goal is to combine my passion for data and design to contribute to the development of innovative, data-driven solutions and frontend projects, where I can add value and continue growing professionally."
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Skilled in programming with Python, SQL, HTML, CSS, JavaScript, and React, combining a strong foundation in software development with a keen ability to analyze and process data. Experienced in statistical analysis, machine learning, and transforming complex datasets into actionable insights using tools like Excel and Power BI. Proficient in ETL processes, managing data extraction, transformation, and loading for strategic initiatives. In the frontend development space, adept at crafting responsive, accessible, and intuitive user interfaces, applying best practices in design and usability. Familiar with version control tools like Git and agile methodologies to enhance collaboration and streamline project workflows."
+  },
+  "portfolio": {
+    "title": "Projects",
+    "description": "I have worked on projects that combine data analysis and frontend development. In data analysis, I designed interactive dashboards using tools like Power BI and Excel, enabling clear visualization of trends and key metrics. I also developed ETL pipelines with Python and SQL to automate data extraction, transformation, and loading processes, optimizing data management and strategic use. In frontend development, I created responsive and accessible interfaces using technologies like React, HTML, CSS, and JavaScript, applying user-centered design principles. Additionally, I integrated RESTful APIs into frontend applications, enhancing functionality and user experience in various projects.",
+    "filters": {
+      "all": "All",
+      "dataAnalysis": "Data Analysis",
+      "webApp": "Web Apps"
+    },
+    "projects": [
+      {
+        "title": "Billboard Analysis",
+        "category": "Data Analysis",
+        "description": "The Next Projects is based on Billboard Hot 100 chart data from 1965 to 2023. The Billboard Hot 100 is the United States music industry's standard chart for songs, published weekly by Billboard magazine. Chart rankings are based on sales (physical and digital), radio play, and online streaming in the United States.",
+        "date": "10 Feb 2023"
+      },
+      {
+        "title": "Survey Analysis",
+        "category": "Data Analysis",
+        "description": "The following projects are based on data from the Global Happiness Index from 2015 - 2022. The Global Happiness Index is a measure used to assess the level of happiness of citizens of different countries. This index is based on a survey carried out every year, in which people are asked about their perception of happiness and well-being in their lives.",
+        "date": "10 Jun 2023"
+      },
+      {
+        "title": "Laptop Analysis",
+        "category": "Data Analysis",
+        "description": "The next project is based on extracting data from the Amazon website using Web Scraping. The procedure for data extraction for an analysis of the Amazon website using web scraping with Beautiful Soup in Python.",
+        "date": "15 Oct 2023"
+      },
+      {
+        "title": "Monitor Analysis",
+        "category": "Data Analysis",
+        "description": "The next project is based on extracting data from the Amazon website through Web Scraping. The procedure for extracting data for an analysis of the Amazon website using web scraping with Beautiful Soup in Python.",
+        "date": "15 Jul 2023"
+      },
+      {
+        "title": "Earthquake Analysis",
+        "category": "Data Analysis",
+        "description": "The following projects are based on earthquake data from 1900 to 2023. The Data Science project on earthquake analysis aims to use data analysis techniques to study seismic activity in a given geographic region. To do this, a historical earthquake data set will be collected, which will include information on the date, time, location, magnitude and other factors related to the earthquakes.",
+        "date": "15 Feb 2023"
+      },
+      {
+        "title": "Earthquake Prediction",
+        "category": "Data Analysis",
+        "description": "The following projects are based on earthquake data from 1900 to 2023. The Data Science project on earthquake analysis aims to use data analysis techniques to study seismic activity in a given geographic region. To do this, a historical earthquake data set will be collected, which will include information on the date, time, location, magnitude and other factors related to the earthquakes.",
+        "date": "15 Nov 2023"
+      },
+      {
+        "title": "Earthquake Analysis App",
+        "category": "Web Apps",
+        "description": "The following projects are based on earthquake data from 1900 to 2023. The Data Science project on earthquake analysis aims to use data analysis techniques to study seismic activity in a given geographic region. To do this, a historical earthquake data set will be collected, which will include information on the date, time, location, magnitude and other factors related to the earthquakes.",
+        "date": "1 Feb 2023"
+      },
+      {
+        "title": "Earthquake Prediction App",
+        "category": "Web Apps",
+        "description": "The following projects are based on earthquake data from 1900 to 2023. The Data Science project on earthquake analysis aims to use data analysis techniques to study seismic activity in a given geographic region. To do this, a historical earthquake data set will be collected, which will include information on the date, time, location, magnitude and other factors related to the earthquakes.",
+        "date": "22 Feb 2023"
+      },
+      {
+        "title": "Project 9",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Project 10",
+        "category": "Data Analysis",
+        "description": "A data analysis project with cutting-edge tools.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Project 11",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Project 12",
+        "category": "Data Analysis",
+        "description": "A data analysis project with cutting-edge tools.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Project 13",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Project 14",
+        "category": "Data Analysis",
+        "description": "A data analysis project with cutting-edge tools.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Project 15",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Project 16",
+        "category": "Data Analysis",
+        "description": "A data analysis project with cutting-edge tools.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Project 17",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      },
+      {
+        "title": "Project 18",
+        "category": "Data Analysis",
+        "description": "A data analysis project with cutting-edge tools.",
+        "date": "5 Feb 2024"
+      },
+      {
+        "title": "Project 19",
+        "category": "Web Apps",
+        "description": "A web application built with modern technologies.",
+        "date": "15 Feb 2024"
+      }
+    ],
+
+    "labels": {
+      "documentation": "Documentation",
+      "demo": "Demo"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "spotify": "My Spotify Playlist"
+  },
+  "footer": {
+    "text": "© 2024 MyPortfolio. All rights reserved."
+  }
+}
