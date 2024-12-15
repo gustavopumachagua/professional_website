@@ -71,10 +71,10 @@
         "date": "22 Feb 2023"
       },
       {
-        "title": "Proyecto 9",
+        "title": "Clon Crunchyroll",
         "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
+        "description": "Un clon inspirado en Crunchyroll que permite a los usuarios explorar animes populares, leer noticias relacionadas y más. La aplicación está desarrollada con React, utiliza Tailwind CSS para el diseño y la API de Jikan para obtener los datos de anime. Además, está optimizada para funcionar offline mediante un Service Worker.",
+        "date": "14 Dic 2024"
       },
       {
         "title": "Proyecto 10",

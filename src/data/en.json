@@ -68,13 +68,13 @@
         "title": "Earthquake Prediction App",
         "category": "Web Apps",
         "description": "The following projects are based on earthquake data from 1900 to 2023. The Data Science project on earthquake analysis aims to use data analysis techniques to study seismic activity in a given geographic region. To do this, a historical earthquake data set will be collected, which will include information on the date, time, location, magnitude and other factors related to the earthquakes.",
-        "date": "22 Feb 2023"
+        "date": "24 Feb 2023"
       },
       {
-        "title": "Project 9",
+        "title": "Clone Crunchyroll",
         "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
+        "description": "A Crunchyroll-inspired clone that allows users to explore popular anime, read related news, and more. The application is developed with React, uses Tailwind CSS for styling, and the Jikan API to fetch anime data. Additionally, it is optimized to work offline through a Service Worker.",
+        "date": "14 Dec 2024"
       },
       {
         "title": "Project 10",

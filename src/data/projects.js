@@ -8,6 +8,7 @@ import terremoto_logo from "../assets/images/projects/terremoto_logo.jpg";
 import terremotoA_logo from "../assets/images/projects/terremotoA_logo.jpg";
 import terremotoAA_logo from "../assets/images/projects/terremotoAA_logo.jpg";
 import terremotoP_logo from "../assets/images/projects/terremotoP_logo.png";
+import crunchyroll_logo from "../assets/images/projects/crunchyroll_logo.png";
 
 const projectDetails = [
   {
@@ -64,6 +65,12 @@ const projectDetails = [
     image: terremotoP_logo, // Imagen única para el proyecto 8
     docsLink: "https://github.com/gustavopumachagua/app_predicciones",
     demoLink: "https://app-predicciones.onrender.com/",
+  },
+  {
+    id: 9,
+    image: crunchyroll_logo, // Imagen única para el proyecto 9
+    docsLink: "https://github.com/gustavopumachagua/CloneCrunchyroll",
+    demoLink: "https://clonecrunchyroll.vercel.app/",
   },
   // Continúa con más proyectos si es necesario
 ];
