@@ -77,64 +77,88 @@
         "date": "14 Dec 2024"
       },
       {
-        "title": "Project 10",
+        "title": "CyberSecurity Roadmap",
         "category": "Data Analysis",
-        "description": "A data analysis project with cutting-edge tools.",
-        "date": "5 Feb 2024"
+        "description": "A cybersecurity roadmap is a structured plan that guides learning and professional development in the field of cybersecurity. It outlines the skills, tools, and knowledge needed to become a cybersecurity professional.",
+        "date": "27 Jul 2025"
       },
       {
-        "title": "Project 11",
-        "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
-      },
-      {
-        "title": "Project 12",
+        "title": "AI and Data Scientist Roadmap",
         "category": "Data Analysis",
-        "description": "A data analysis project with cutting-edge tools.",
-        "date": "5 Feb 2024"
+        "description": "A Roadmap for Artificial Intelligence (AI) and Data Science is a structured learning plan that guides the development of the skills needed to become a professional in these fields.",
+        "date": "25 Jul 2024"
       },
       {
-        "title": "Project 13",
+        "title": "Web Directory",
         "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
+        "description": "Telephone Directory is a web application that allows you to search, filter, and view institutional contact information by faculty, department, or custom criteria such as first name, last name, and attachment.",
+        "date": "5 Oct 2024"
       },
       {
-        "title": "Project 14",
-        "category": "Data Analysis",
-        "description": "A data analysis project with cutting-edge tools.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Project 15",
+        "title": "Website",
         "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
+        "description": "My personal website is a platform where I showcase my web development projects. It functions as a digital portfolio, allowing visitors to explore my work, the technologies I use, and links to demos or GitHub repositories.",
+        "date": "21 Jul 2024"
       },
       {
-        "title": "Project 16",
-        "category": "Data Analysis",
-        "description": "A data analysis project with cutting-edge tools.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Project 17",
+        "title": "Web page",
         "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
+        "description": "My personal website is a platform where I showcase my web development projects. It functions as a digital portfolio, allowing visitors to explore my work, the technologies I use, and links to demos or GitHub repositories.",
+        "date": "27 Apr 2024"
       },
       {
-        "title": "Project 18",
-        "category": "Data Analysis",
-        "description": "A data analysis project with cutting-edge tools.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Project 19",
+        "title": "Dog Website",
         "category": "Web Apps",
-        "description": "A web application built with modern technologies.",
-        "date": "15 Feb 2024"
+        "description": "The Dog App is a web app developed with React that allows users to explore a wide variety of dog breeds. It uses The Dog API to retrieve information such as name, breeding purpose, height, weight, group, temperament, and lifespan.",
+        "date": "18 Oct 2023"
+      },
+      {
+        "title": "Rick and Morty",
+        "category": "Web Apps",
+        "description": "The Rick and Morty API is a free REST API that provides detailed information about characters, episodes, and locations from the animated series. It allows you to search, filter, and paginate data to build applications related to the series.",
+        "date": "14 Oct 2023"
+      },
+      {
+        "title": "Api Rick and Morty",
+        "category": "Web Apps",
+        "description": "The Rick and Morty API is a free REST API that provides detailed information about characters, episodes, and locations from the animated series. It allows you to search, filter, and paginate data to build applications related to the series.",
+        "date": "13 Oct 2023"
+      },
+      {
+        "title": "Api GitHub",
+        "category": "Web Apps",
+        "description": "The GitHub API is a REST API that allows you to interact with GitHub features such as repositories, users, issues, and commits. It facilitates task automation, integration with external applications, and programmatic access to data from the development ecosystem.",
+        "date": "11 Feb 2023"
+      },
+      {
+        "title": "Web Rick and Morty",
+        "category": "Web Apps",
+        "description": "The Rick and Morty API is a free REST API that provides detailed information about characters, episodes, and locations from the animated series. It allows you to search, filter, and paginate data to build applications related to the series.",
+        "date": "20 Feb 2023"
+      },
+      {
+        "title": "Api Pokedex",
+        "category": "Web Apps",
+        "description": "The Pokédex API, also known as PokéAPI, is a free REST API that provides detailed information about Pokémon, including names, types, Abilities, stats, evolutions, and more. It's ideal for building apps, games, or tools related to the Pokémon universe.",
+        "date": "10 Jun 2023"
+      },
+      {
+        "title": "Web Houses",
+        "category": "Web Apps",
+        "description": "This project is a real estate web application built with React and Tailwind CSS that displays properties in interactive cards. Each card presents information such as price, location, property type, number of bedrooms, bathrooms, and total square footage, with a responsive design.",
+        "date": "19 Jun 2023"
+      },
+      {
+        "title": "Web Play",
+        "category": "Web Apps",
+        "description": "PlayJS is an interactive Rock-Paper-Scissors web application developed with HTML, CSS, and JavaScript. It allows users to compete against a computer in an attractive visual interface, with immediate results and the option to restart the game.",
+        "date": "22 Jun 2023"
+      },
+      {
+        "title": "Memory Game",
+        "category": "Web Apps",
+        "description": "This project is a memory game based on Rick and Morty characters. It uses HTML, CSS, and JavaScript to create an interactive experience where the player must find pairs of matching cards, testing their memory and speed.",
+        "date": "12 Jun 2023"
       }
     ],
 

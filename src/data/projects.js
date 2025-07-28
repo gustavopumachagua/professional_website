@@ -1,5 +1,6 @@
 import en from "../data/en.json";
 import es from "../data/es.json";
+import defaultImage from "../assets/images/projects/No_Imagen_logo.jpg";
 import billboard from "../assets/images/projects/billboard_logo.png";
 import felicidad from "../assets/images/projects/felicidad_logo.webp";
 import laptop_logo from "../assets/images/projects/laptop_logo.png";
@@ -9,6 +10,20 @@ import terremotoA_logo from "../assets/images/projects/terremotoA_logo.jpg";
 import terremotoAA_logo from "../assets/images/projects/terremotoAA_logo.jpg";
 import terremotoP_logo from "../assets/images/projects/terremotoP_logo.png";
 import crunchyroll_logo from "../assets/images/projects/crunchyroll_logo.png";
+import ciberseguridad_logo from "../assets/images/projects/ciberseguridad_logo.jpg";
+import data_analisis_logo from "../assets/images/projects/data_analisis_logo.png";
+import directorio_logo from "../assets/images/projects/directorio_logo.png";
+import sitio_web_logo from "../assets/images/projects/sitio_web_logo.png";
+import pagina_web_logo from "../assets/images/projects/pagina_web_logo.png";
+import dog_api_logo from "../assets/images/projects/dog_api_logo.png";
+import rick_morty_logo from "../assets/images/projects/rick_morty_logo.png";
+import api_rick_logo from "../assets/images/projects/api_rick_logo.png";
+import api_github_logo from "../assets/images/projects/api_github_logo.png";
+import api_morty_logo from "../assets/images/projects/api_morty_logo.png";
+import api_pokedex_logo from "../assets/images/projects/api_pokemon_logo.png";
+import house_logo from "../assets/images/projects/Houses_logo.png";
+import juego_logo from "../assets/images/projects/juegos_logo.png";
+import memoria_logo from "../assets/images/projects/memoria_logo.png";
 
 const projectDetails = [
   {
@@ -72,6 +87,93 @@ const projectDetails = [
     docsLink: "https://github.com/gustavopumachagua/CloneCrunchyroll",
     demoLink: "https://clonecrunchyroll.vercel.app/",
   },
+  {
+    id: 10,
+    image: ciberseguridad_logo, // Imagen única para el proyecto 10
+    docsLink: "https://github.com/gustavopumachagua/Cyber_Security_Roadmap",
+    demoLink:
+      "https://github.com/gustavopumachagua/Cyber_Security_Roadmap/blob/main/1_Linux_Manejo_de_comandos_y_Shell_Script/1_1_Que_es_Linux.md",
+  },
+  {
+    id: 11,
+    image: data_analisis_logo, // Imagen única para el proyecto 11
+    docsLink:
+      "https://github.com/gustavopumachagua/AI_and_Data_Scientist_Roadmap",
+    demoLink:
+      "https://github.com/gustavopumachagua/AI_and_Data_Scientist_Roadmap/blob/main/1_Matematicas/1.1_Algebra_lineal_Calculo,_Analisis%20_matematico/01_Matematica_aplicada_al_aprendizaje_autom%C3%A1tico_algebra_lineal.ipynb",
+  },
+  {
+    id: 12,
+    image: directorio_logo, // Imagen única para el proyecto 12
+    docsLink: "https://github.com/gustavopumachagua/Prueba_Directorio",
+    demoLink: "https://prueba-directorio.vercel.app/",
+  },
+  {
+    id: 13,
+    image: sitio_web_logo, // Imagen única para el proyecto 13
+    docsLink: "https://github.com/gustavopumachagua/sitio-web",
+    demoLink: "https://gusscode.vercel.app/",
+  },
+  {
+    id: 14,
+    image: pagina_web_logo, // Imagen única para el proyecto 14
+    docsLink: "https://github.com/gustavopumachagua/GussDev",
+    demoLink: "https://gussdev.vercel.app/",
+  },
+  {
+    id: 15,
+    image: dog_api_logo, // Imagen única para el proyecto 15
+    docsLink: "https://github.com/gustavopumachagua/API-DOG",
+    demoLink: "https://api-dog-chi.vercel.app/",
+  },
+  {
+    id: 16,
+    image: rick_morty_logo, // Imagen única para el proyecto 16
+    docsLink: "https://github.com/gustavopumachagua/API-RICK-AND-MORTY-2",
+    demoLink: "https://api-rick-and-morty-2.vercel.app/",
+  },
+  {
+    id: 17,
+    image: api_rick_logo, // Imagen única para el proyecto 17
+    docsLink: "https://github.com/gustavopumachagua/API-RICK-AND-MORTY-3",
+    demoLink: "https://api-rick-and-morty-3.vercel.app/",
+  },
+  {
+    id: 18,
+    image: api_github_logo, // Imagen única para el proyecto 18
+    docsLink: "https://github.com/gustavopumachagua/API-GITHUB",
+    demoLink: "https://api-github-eta.vercel.app/",
+  },
+  {
+    id: 19,
+    image: api_morty_logo, // Imagen única para el proyecto 19
+    docsLink: "https://github.com/gustavopumachagua/API-RICK-AND-MORTY-1",
+    demoLink: "https://api-rick-and-morty-1.vercel.app/",
+  },
+  {
+    id: 20,
+    image: api_pokedex_logo, // Imagen única para el proyecto 20
+    docsLink: "https://github.com/gustavopumachagua/api-pokemon#",
+    demoLink: "https://api-pokemon-delta.vercel.app/",
+  },
+  {
+    id: 21,
+    image: house_logo, // Imagen única para el proyecto 21
+    docsLink: "https://github.com/gustavopumachagua/sitio_web_1",
+    demoLink: "https://sitio-web-1.vercel.app/",
+  },
+  {
+    id: 22,
+    image: juego_logo, // Imagen única para el proyecto 22
+    docsLink: "https://github.com/gustavopumachagua/PlayJS#",
+    demoLink: "https://play-js-two.vercel.app/",
+  },
+  {
+    id: 23,
+    image: memoria_logo, // Imagen única para el proyecto 23
+    docsLink: "https://github.com/gustavopumachagua/memoria-play#",
+    demoLink: "https://memoria-play.vercel.app/",
+  },
   // Continúa con más proyectos si es necesario
 ];
 
@@ -84,9 +186,9 @@ const getProjects = (language) => {
     return {
       ...project,
       id: detail.id || index + 1, // Asegura un ID único
-      image: detail.image || "https://via.placeholder.com/400", // Imagen predeterminada si no hay
-      docsLink: detail.docsLink || "https://github.com/default", // Enlace predeterminado
-      demoLink: detail.demoLink || "https://demo.com/default", // Enlace predeterminado
+      image: detail.image || defaultImage, // Imagen predeterminada si no hay
+      docsLink: detail.docsLink || "https://github.com/gustavopumachagua", // Enlace predeterminado
+      demoLink: detail.demoLink || "https://github.com/gustavopumachagua", // Enlace predeterminado
     };
   });
 };

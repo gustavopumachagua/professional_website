@@ -77,64 +77,88 @@
         "date": "14 Dic 2024"
       },
       {
-        "title": "Proyecto 10",
+        "title": "Hoja de ruta de ciberseguridad",
         "category": "Análisis de Datos",
-        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
-        "date": "5 Feb 2024"
+        "description": "Una hoja de ruta de ciberseguridad es un plan estructurado que guía el aprendizaje y desarrollo profesional en el campo de la seguridad informática. Resume las habilidades, herramientas y conocimientos necesarios para convertirte en un profesional de ciberseguridad.",
+        "date": "27 Jul 2025"
       },
       {
-        "title": "Proyecto 11",
-        "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
-      },
-      {
-        "title": "Proyecto 12",
+        "title": "Hoja de ruta para la IA y los científicos de datos",
         "category": "Análisis de Datos",
-        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
-        "date": "5 Feb 2024"
+        "description": "Una hoja de ruta para Inteligencia Artificial (IA) y Ciencia de Datos es un plan de aprendizaje estructurado que guía el desarrollo de habilidades necesarias para convertirse en un profesional en estas áreas.",
+        "date": "25 Jul 2024"
       },
       {
-        "title": "Proyecto 13",
+        "title": "Web Directorio",
         "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
+        "description": "Directorio Telefónico es una aplicación web que permite buscar, filtrar y visualizar información de contacto institucional por facultad, dependencia o criterios personalizados como nombre, apellido y anexo.",
+        "date": "5 Oct 2024"
       },
       {
-        "title": "Proyecto 14",
-        "category": "Análisis de Datos",
-        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Proyecto 15",
+        "title": "Sitio Web",
         "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
+        "description": "Mi sitio web personal es una plataforma donde presento mis proyectos desarrollados como desarrollador web. Funciona como portafolio digital, permitiendo a visitantes explorar mis trabajos, tecnologías utilizadas y enlaces a demostraciones o repositorios en GitHub.",
+        "date": "21 Jul 2024"
       },
       {
-        "title": "Proyecto 16",
-        "category": "Análisis de Datos",
-        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Proyecto 17",
+        "title": "pagina web",
         "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
+        "description": "Mi sitio web personal es una plataforma donde presento mis proyectos desarrollados como desarrollador web. Funciona como portafolio digital, permitiendo a visitantes explorar mis trabajos, tecnologías utilizadas y enlaces a demostraciones o repositorios en GitHub.",
+        "date": "27 Abr 2024"
       },
       {
-        "title": "Proyecto 18",
-        "category": "Análisis de Datos",
-        "description": "Un proyecto de análisis de datos con herramientas innovadoras.",
-        "date": "5 Feb 2024"
-      },
-      {
-        "title": "Proyecto 19",
+        "title": "Web Perro",
         "category": "Aplicaciones Web",
-        "description": "Una aplicación web construida con tecnologías modernas.",
-        "date": "15 Feb 2024"
+        "description": "The Dog App es una aplicación web desarrollada con React que permite a los usuarios explorar una amplia variedad de razas de perros. Utiliza The Dog API para obtener información como nombre, propósito de cría, altura, peso, grupo, temperamento y esperanza de vida. Los usuarios pueden buscar razas específicas por nombre y visualizar detalles individuales.",
+        "date": "18 Oct 2023"
+      },
+      {
+        "title": "Rick y Morty",
+        "category": "Aplicaciones Web",
+        "description": "La API de Rick and Morty es una API REST gratuita que proporciona información detallada sobre personajes, episodios y ubicaciones de la serie animada. Permite realizar búsquedas, filtrados y paginación de datos para crear aplicaciones relacionadas con la serie.",
+        "date": "14 Oct 2023"
+      },
+      {
+        "title": "Api Rick y Morty",
+        "category": "Aplicaciones Web",
+        "description": "La API de Rick and Morty es una API REST gratuita que proporciona información detallada sobre personajes, episodios y ubicaciones de la serie animada. Permite realizar búsquedas, filtrados y paginación de datos para crear aplicaciones relacionadas con la serie.",
+        "date": "14 Oct 2023"
+      },
+      {
+        "title": "Api GitHub",
+        "category": "Aplicaciones Web",
+        "description": "La API de GitHub es una API REST que permite interactuar con funcionalidades de GitHub como repositorios, usuarios, issues y commits. Facilita la automatización de tareas, integración con aplicaciones externas y acceso programático a datos del ecosistema de desarrollo.",
+        "date": "11 Feb 2023"
+      },
+      {
+        "title": "Web Rick y Morty",
+        "category": "Aplicaciones Web",
+        "description": "La API de Rick and Morty es una API REST gratuita que proporciona información detallada sobre personajes, episodios y ubicaciones de la serie animada. Permite realizar búsquedas, filtrados y paginación de datos para crear aplicaciones relacionadas con la serie.",
+        "date": "20 Feb 2023"
+      },
+      {
+        "title": "Api Pokedex",
+        "category": "Aplicaciones Web",
+        "description": "La API Pokédex, conocida como PokéAPI, es una API REST gratuita que proporciona información detallada sobre Pokémon, incluyendo nombres, tipos, habilidades, estadísticas, evoluciones y más. Es ideal para crear aplicaciones, juegos o herramientas relacionadas con el universo Pokémon.",
+        "date": "10 Jun 2023"
+      },
+      {
+        "title": "Web Casas",
+        "category": "Aplicaciones Web",
+        "description": "Este proyecto es una aplicación web inmobiliaria creada con React y Tailwind CSS que muestra propiedades en tarjetas interactivas. Cada tarjeta presenta información como precio, ubicación, tipo de propiedad, número de habitaciones, baños y área total, con diseño responsive.",
+        "date": "19 Jun 2023"
+      },
+      {
+        "title": "Web Juegos",
+        "category": "Aplicaciones Web",
+        "description": "PlayJS es una aplicación web interactiva del juego Piedra, Papel o Tijera, desarrollada con HTML, CSS y JavaScript. Permite al usuario competir contra la máquina en una interfaz visual atractiva, con resultados inmediatos y opción para reiniciar la partida.",
+        "date": "22 Jun 2023"
+      },
+      {
+        "title": "Memoria Juego",
+        "category": "Aplicaciones Web",
+        "description": "Este proyecto es un juego de memoria basado en personajes de Rick and Morty. Utiliza HTML, CSS y JavaScript para crear una experiencia interactiva donde el jugador debe encontrar pares de cartas iguales, poniendo a prueba su memoria y rapidez.",
+        "date": "12 Jun 2023"
       }
     ],
     "labels": {
