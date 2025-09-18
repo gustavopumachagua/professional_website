@@ -159,6 +159,12 @@
         "category": "Web Apps",
         "description": "This project is a memory game based on Rick and Morty characters. It uses HTML, CSS, and JavaScript to create an interactive experience where the player must find pairs of matching cards, testing their memory and speed.",
         "date": "12 Jun 2023"
+      },
+      {
+        "title": "CyberSecurity Complete",
+        "category": "Data Analysis",
+        "description": "A cybersecurity roadmap is a structured plan that guides learning and professional development in the field of cybersecurity. It outlines the skills, tools, and knowledge needed to become a cybersecurity professional.",
+        "date": "18 Sept 2025"
       }
     ],
 
@@ -172,6 +178,6 @@
     "spotify": "My Spotify Playlist"
   },
   "footer": {
-    "text": "© 2024 MyPortfolio. All rights reserved."
+    "text": "© 2025 MyPortfolio. All rights reserved."
   }
 }

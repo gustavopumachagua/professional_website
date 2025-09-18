@@ -24,6 +24,7 @@ import api_pokedex_logo from "../assets/images/projects/api_pokemon_logo.png";
 import house_logo from "../assets/images/projects/Houses_logo.png";
 import juego_logo from "../assets/images/projects/juegos_logo.png";
 import memoria_logo from "../assets/images/projects/memoria_logo.png";
+import cyberseguridad_logo from "../assets/images/projects/cyberseguridad_logo.webp";
 
 const projectDetails = [
   {
@@ -173,6 +174,13 @@ const projectDetails = [
     image: memoria_logo, // Imagen única para el proyecto 23
     docsLink: "https://github.com/gustavopumachagua/memoria-play#",
     demoLink: "https://memoria-play.vercel.app/",
+  },
+  {
+    id: 24,
+    image: cyberseguridad_logo, // Imagen única para el proyecto 10
+    docsLink: "https://github.com/gustavopumachagua/Cyber_Security_Completo",
+    demoLink:
+      "https://github.com/gustavopumachagua/Cyber_Security_Completo/blob/main/1_Fundamental_IT_Skills/1_1_Fundamental_IT_Skills.md",
   },
   // Continúa con más proyectos si es necesario
 ];

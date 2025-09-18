@@ -159,6 +159,12 @@
         "category": "Aplicaciones Web",
         "description": "Este proyecto es un juego de memoria basado en personajes de Rick and Morty. Utiliza HTML, CSS y JavaScript para crear una experiencia interactiva donde el jugador debe encontrar pares de cartas iguales, poniendo a prueba su memoria y rapidez.",
         "date": "12 Jun 2023"
+      },
+      {
+        "title": "Completo de ciberseguridad",
+        "category": "Análisis de Datos",
+        "description": "Una hoja de ruta de ciberseguridad es un plan estructurado que guía el aprendizaje y desarrollo profesional en el campo de la seguridad informática. Resume las habilidades, herramientas y conocimientos necesarios para convertirte en un profesional de ciberseguridad.",
+        "date": "18 Sep 2025"
       }
     ],
     "labels": {
@@ -171,6 +177,6 @@
     "spotify": "Mi lista de reproducción de Spotify"
   },
   "footer": {
-    "text": "© 2024 MiPortafolio. Todos los derechos reservados."
+    "text": "© 2025 MiPortafolio. Todos los derechos reservados."
   }
 }
