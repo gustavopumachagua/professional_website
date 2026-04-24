@@ -25,6 +25,8 @@ import house_logo from "../assets/images/projects/Houses_logo.png";
 import juego_logo from "../assets/images/projects/juegos_logo.png";
 import memoria_logo from "../assets/images/projects/memoria_logo.png";
 import cyberseguridad_logo from "../assets/images/projects/cyberseguridad_logo.webp";
+import webkaritocentroestetico_logo from "../assets/images/projects/webkaritocentroestetico_logo.png";
+import webadministrativokarito_logo from "../assets/images/projects/webadministrativokarito_logo.png";
 
 const projectDetails = [
   {
@@ -154,7 +156,7 @@ const projectDetails = [
   {
     id: 20,
     image: api_pokedex_logo, // Imagen única para el proyecto 20
-    docsLink: "https://github.com/gustavopumachagua/api-pokemon#",
+    docsLink: "https://github.com/gustavopumachagua/api-pokemon",
     demoLink: "https://api-pokemon-delta.vercel.app/",
   },
   {
@@ -166,21 +168,33 @@ const projectDetails = [
   {
     id: 22,
     image: juego_logo, // Imagen única para el proyecto 22
-    docsLink: "https://github.com/gustavopumachagua/PlayJS#",
+    docsLink: "https://github.com/gustavopumachagua/PlayJS",
     demoLink: "https://play-js-two.vercel.app/",
   },
   {
     id: 23,
     image: memoria_logo, // Imagen única para el proyecto 23
-    docsLink: "https://github.com/gustavopumachagua/memoria-play#",
+    docsLink: "https://github.com/gustavopumachagua/memoria-play",
     demoLink: "https://memoria-play.vercel.app/",
   },
   {
     id: 24,
-    image: cyberseguridad_logo, // Imagen única para el proyecto 10
+    image: cyberseguridad_logo, // Imagen única para el proyecto 24
     docsLink: "https://github.com/gustavopumachagua/Cyber_Security_Completo",
     demoLink:
       "https://github.com/gustavopumachagua/Cyber_Security_Completo/blob/main/1_Fundamental_IT_Skills/1_1_Fundamental_IT_Skills.md",
+  },
+  {
+    id: 25,
+    image: webkaritocentroestetico_logo, // Imagen única para el proyecto 25
+    docsLink: "https://github.com/gustavopumachagua/webkaritocentroestetico",
+    demoLink: "https://webkaritocentroestetico.vercel.app/",
+  },
+  {
+    id: 26,
+    image: webadministrativokarito_logo, // Imagen única para el proyecto 26
+    docsLink: "https://github.com/gustavopumachagua/karitocentroestetico",
+    demoLink: "https://karitocentroestetico.vercel.app/",
   },
   // Continúa con más proyectos si es necesario
 ];

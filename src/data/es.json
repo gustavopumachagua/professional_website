@@ -165,6 +165,18 @@
         "category": "Análisis de Datos",
         "description": "Una hoja de ruta de ciberseguridad es un plan estructurado que guía el aprendizaje y desarrollo profesional en el campo de la seguridad informática. Resume las habilidades, herramientas y conocimientos necesarios para convertirte en un profesional de ciberseguridad.",
         "date": "18 Sep 2025"
+      },
+      {
+        "title": "Web Karito Centro Estetico",
+        "category": "Aplicaciones Web",
+        "description": "Sitio web de Karito Centro Estetico construido con React y Vite. El proyecto presenta servicios de medicina estetica facial y corporal, promociones, informacion institucional y contenido comercial editable desde archivos de datos e imagenes centralizadas.",
+        "date": "23 Abr 2026"
+      },
+      {
+        "title": "Web Administrativo Karito Centro Estetico",
+        "category": "Aplicaciones Web",
+        "description": "Aplicación ERP (Enterprise Resource Planning) desarrollada para la gestión integral de un centro estético. Permite administrar clientes, servicios, empleados, citas, inventarios, reportes y más, desde una interfaz moderna, rápida y escalable.",
+        "date": "18 Abr 2026"
       }
     ],
     "labels": {

@@ -165,6 +165,18 @@
         "category": "Data Analysis",
         "description": "A cybersecurity roadmap is a structured plan that guides learning and professional development in the field of cybersecurity. It outlines the skills, tools, and knowledge needed to become a cybersecurity professional.",
         "date": "18 Sept 2025"
+      },
+      {
+        "title": "Karito Aesthetic Center Website",
+        "category": "Web Apps",
+        "description": "Website for Karito Aesthetic Center built with React and Vite. The project showcases facial and body aesthetic medicine services, promotions, institutional information, and commercial content editable from centralized data and image files.",
+        "date": "23 Apr 2026"
+      },
+      {
+        "title": "Karito Aesthetic Center Admin Web",
+        "category": "Web Apps",
+        "description": "ERP (Enterprise Resource Planning) application developed for the comprehensive management of an aesthetic center. It allows managing clients, services, employees, appointments, inventories, reports, and more, all from a modern, fast, and scalable interface.",
+        "date": "18 Apr 2026"
       }
     ],
 
